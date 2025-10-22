@@ -34,8 +34,9 @@ PRECAUTIONS:
 2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
 
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
-![WhatsApp Image 2025-10-22 at 22 03 17_32f65783](https://github.com/user-attachments/assets/ff32d2ae-ec63-4780-b16d-69ccf9b007f5)
+
 ![WhatsApp Image 2025-10-22 at 22 03 17_4388f7fc](https://github.com/user-attachments/assets/d6724e62-9744-4091-9572-a6ce940495d9)
+![WhatsApp Image 2025-10-22 at 22 03 17_32f65783](https://github.com/user-attachments/assets/ff32d2ae-ec63-4780-b16d-69ccf9b007f5)
 ![WhatsApp Image 2025-10-22 at 22 03 18_1f80c0ae](https://github.com/user-attachments/assets/df1e684d-358d-444b-a0cb-aee884f532d7)
 ![WhatsApp Image 2025-10-22 at 22 03 18_da896e90](https://github.com/user-attachments/assets/88e9493c-4a56-4127-8a55-8c463fe2ae46)
 
